@@ -1,5 +1,3 @@
-package DataStructures.Queue;
-
 public class QueueGeneric<T> {
 
     private int maxSize;
