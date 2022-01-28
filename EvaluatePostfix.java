@@ -1,5 +1,3 @@
-package DataStructures.Stack;
-
 public class EvaluatePostfix {
 
     private StackGeneric<String> stack;
