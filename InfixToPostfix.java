@@ -1,5 +1,3 @@
-package DataStructures.Stack;
-
 public class InfixToPostfix {
 
     private StackGeneric<String> stack;
